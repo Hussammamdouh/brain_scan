@@ -33,3 +33,4 @@ Thumbs.db
 uploads/
 public/uploads/
 tmp/
+.vercel
